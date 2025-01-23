@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Electrical and Electronics Engineering, Nanyang Technological University, 2026 (expected)
+  * Minor in Mathematics
+  * GPA: 4.60 / 5.0 (First Class Honours)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan 2025 - May 2025: Undergraduate Research Intern
+  * ROSE Lab @ NTU
+  * Research Topic: Generative AI empowered synthetic data/image generation
+  * Supervisor: Prof. Wen, Bihan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar 2022 - Jun 2022: Undergraduate Research Intern
+  * NICE Lab @ NTU
+  * Research Topic: Design and Analysis of Neural Network
+  * Supervisor: Prof. Taehyoung (Tony), Kim
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2021 - Jun 2022: Undergraduate Research Intern
+  * Nam's Research Group @ NTU
+  * Research Topic: Strain-engineered Quantum Device Towards Integrated Quantum Photonic Chips
+  * Supervisor: Prof. Donguk, Nam
   
-Skills
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mar 2024 - Jun 2024: Paradot (Carat), Korea
+  * AI Research Engineer Intern
+  * AI Start-up in Korea
+
+* Sep 2022 - Mar 2024: SEC Research Center, Korea
+  * Discharge as Sergeant
+  * National service in Republic of Korea Army (ROKA)
 
 Publications
 ======
