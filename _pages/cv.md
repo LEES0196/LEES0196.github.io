@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+You may see the full curriculum vitae [here](http://lees0196.github.io/files/slides3.pdf).
 Education
 ======
 * B.S. in Electrical and Electronics Engineering, Nanyang Technological University, 2026 (expected)
@@ -18,23 +18,23 @@ Education
 Research Experience
 ======
 * Jan 2025 - May 2025: Undergraduate Research Intern
-  * ROSE Lab @ NTU
+  * [ROSE Lab](https://www.ntu.edu.sg/rose) @ NTU
   * Research Topic: Generative AI empowered synthetic data/image generation
-  * Supervisor: Prof. Wen, Bihan
+  * Supervisor: Prof. [Wen, Bihan](https://personal.ntu.edu.sg/bihan.wen/)
 
 * Mar 2022 - Jun 2022: Undergraduate Research Intern
-  * NICE Lab @ NTU
+  * [NICE Lab](https://sites.google.com/view/tonykim) @ NTU
   * Research Topic: Design and Analysis of Neural Network
   * Supervisor: Prof. Taehyoung (Tony), Kim
 
 * Sep 2021 - Jun 2022: Undergraduate Research Intern
-  * Nam's Research Group @ NTU
+  * [Nam's Research Group](https://www.donguknam.com/) @ NTU
   * Research Topic: Strain-engineered Quantum Device Towards Integrated Quantum Photonic Chips
-  * Supervisor: Prof. Donguk, Nam
+  * Supervisor: Prof. Donguk, Nam; Currently at Korea Advanced Institute of Science and Technology (Kaist)
   
 Work Experience
 ======
-* Mar 2024 - Jun 2024: Paradot (Carat), Korea
+* Mar 2024 - Jun 2024: [Paradot (Carat)](https://carat.im/), Korea
   * AI Research Engineer Intern
   * AI Start-up in Korea
 
