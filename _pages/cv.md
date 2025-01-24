@@ -45,4 +45,4 @@ Work Experience
 
 Honours
 ======
-* Awarded NTU President Research Scholar
+* NTU President Research Scholar
