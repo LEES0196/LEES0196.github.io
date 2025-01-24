@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-You may see the full curriculum vitae [here](http://lees0196.github.io/files/slides3.pdf).
+You may see the full curriculum vitae [here](http://lees0196.github.io/files/SujongLee.pdf).
+
 Education
 ======
 * B.S. in Electrical and Electronics Engineering, Nanyang Technological University, 2026 (expected)
