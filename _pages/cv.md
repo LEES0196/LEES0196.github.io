@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You may see the full curriculum vitae [here](http://lees0196.github.io/files/SujongLee.pdf).
+You may see the pdf version of my curriculum vitae [here](http://lees0196.github.io/files/SujongLee.pdf).
 
 Education
 ======
@@ -38,6 +38,7 @@ Work Experience
 * Mar 2024 - Jun 2024: [Paradot (Carat)](https://carat.im/), Korea
   * AI Research Engineer Intern
   * AI Start-up in Korea
+  * Conducted research on generative models such as I2I and I2V  
 
 * Sep 2022 - Mar 2024: SEC Research Center, Korea
   * Discharge as Sergeant
