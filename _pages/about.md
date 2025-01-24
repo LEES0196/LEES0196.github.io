@@ -13,10 +13,8 @@ I am currently an undergraduate researcher in ROSE Lab @ NTU under supervision o
 
 You can find my curriculum vitae [here](http://lees0196.github.io/files/SujongLee.pdf).
 
-I have lived in 4 different countries, Korea, Turkiye, Thailand and Singapore, and travelled through numerous different countries. I enjoy playing international chess and League of Legends.
-
 Updates
 ======
-* Jan 2025: I joined ROSE Lab @ NTU as a part of credit-bearing internship!! I will be working on image and video analytics.
-* Mar 2024: Finally finished my national service at SEC Research Center in Republic of Korea!! Now, I will start my industrial career with a 3-month internship at Paradot(Carat) as AI Research Engineer.
+* Jan 2025: I joined [ROSE Lab](https://www.ntu.edu.sg/rose) @ NTU as a part of credit-bearing internship!! I will be working on image and video analytics.
+* Mar 2024: Finally finished my national service at SEC Research Center in Republic of Korea!! Now, I will start my industrial career with a 3-month internship at [Carat](https://carat.im) as AI Research Engineer.
 
