@@ -31,7 +31,7 @@ Research Experience
 * Sep 2021 - Jun 2022: Undergraduate Research Intern
   * [Nam's Research Group](https://www.donguknam.com/) @ NTU
   * Research Topic: Strain-engineered Quantum Device Towards Integrated Quantum Photonic Chips
-  * Supervisor: Prof. Donguk, Nam; Currently at Korea Advanced Institute of Science and Technology (Kaist)
+  * Supervisor: Prof. Donguk, Nam (now at Kaist)
   
 Work Experience
 ======
@@ -43,24 +43,6 @@ Work Experience
   * Discharge as Sergeant
   * National service in Republic of Korea Army (ROKA)
 
-Publications
+Honours
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Awarded NTU President Research Scholar
